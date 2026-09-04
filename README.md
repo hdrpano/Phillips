@@ -100,7 +100,7 @@ The high-resolution mathematical geometry is reduced to a practical number of Fu
 
 The current desktop application can send both the standard Phillips geometry and the Bovay-optimized geometry directly to **Autodesk Fusion through MCP**.
 
-![Overcoil](./images/Fusion 1.png)
+![Overcoil](./images/Fusion_1.png)
 
 ## Plot export
 
