@@ -33,6 +33,8 @@ $$
 
 Because these conditions do not define one unique geometry, the current application can generate several Phillips-compliant solutions and compare them with Bovay's second-order descriptor.
 
+![Overcoil](./images/05_both_models.png)
+
 ## Phillips + Bovay
 
 For a valid Phillips curve, the first-order Bovay descriptor approaches
