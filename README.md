@@ -55,6 +55,8 @@ With a relatively simple geometry, for example around a curve ratio of **0.7**, 
 
 The optimized MCP export can select the tested Phillips-compliant curve with the lowest $\rho_2$.
 
+![Overcoil](./images/06_phillips_bovay_variants1.png)
+
 ## Hairspring stiffness and balance inertia
 
 The desktop application also connects the geometry to the oscillator.
@@ -97,6 +99,8 @@ The program works with both:
 The high-resolution mathematical geometry is reduced to a practical number of Fusion spline fit points and checked against the exact reference geometry.
 
 The current desktop application can send both the standard Phillips geometry and the Bovay-optimized geometry directly to **Autodesk Fusion through MCP**.
+
+![Overcoil](./images/Fusion 1.png)
 
 ## Plot export
 
