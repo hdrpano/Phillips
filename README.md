@@ -104,7 +104,7 @@ Engineering plots can be exported as **PNG and SVG**, including the comparison o
 
 ## Repository contents
 
-### Python source — Version 5
+### Python source
 
 `phillips_breguet_curve_final.py`
 
@@ -123,7 +123,7 @@ The current **PyQt5 desktop application** is distributed as a compiled Windows e
 
 > **Important:** the Version 5 Python source and the compiled desktop application are not the same software revision. Version 5 is provided primarily as a transparent reference implementation of the underlying calculation.
 
-## Running the Version 5 source
+## Running the source
 
 Python 3.10 or newer is recommended.
 
@@ -141,7 +141,7 @@ python phillips_breguet_curve_final.py
 
 Generated CSV files and plots are written next to the script.
 
-## Typical Version 5 parameters
+## Typical parameters
 
 ```text
 Inner diameter       0.550 mm
